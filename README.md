@@ -7,9 +7,9 @@ The main goal of this project was to provide a comprehensive exploratory analysi
 
 2. Data Cleaning and Analysis: Conducted exploratory data analysis to uncover patterns and insights within the dataset. This included analyzing the relationships between ratings, total rates, and amenities.
 
-3. Visualization: Created various bar plots, scatter plots, heatmaps, and histograms to represent the data visually.
+3. Visualization: Created various bar plots, scatter plots, heat maps, and histograms to represent the data visually.
 
-4. Insights: Provided actionable insights into how factors such as hotel amenities and ratings influence pricing, aiming to assist stakeholders in making informed decisions in the hospitality sector.
+4. Dashboard and Insights: Provided actionable insights into how factors such as hotel amenities and ratings influence pricing, aiming to assist stakeholders in making informed decisions in the hospitality sector.
 
 This project demonstrates the power of data-driven methods in understanding market trends and consumer preferences in the hospitality industry.
 
