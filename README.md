@@ -1,7 +1,7 @@
 # Analyzing Hotels on Google Search: The Impact of Ratings, Number of Reviews, Amenities, and Attractions
 ## A Data-Driven Approach Using Web Scraping and Visualization
 
-The main goal of this project was to provide a comprehensive exploratory analysis of the hospitality industry by utilizing web scraping and data visualization. By extracting data from the Google Hotels search, the project focused on several key metrics including total rate, hotel ratings, number of reviews, customer-mentioned amenities and features, nearby attractions, and attractions distances to optimize total stay rates. To demonstrate this project, the destination was set in Hawaii. 
+The main goal of this project was to provide a comprehensive exploratory analysis of the hospitality industry by utilizing web scraping and data visualization. By extracting data from the Google Hotels search, the project focused on several key metrics including total rate, hotel ratings, number of reviews, customer-mentioned amenities and features, nearby attractions, and attractions distances to optimize total stay rates. To demonstrate the program, the destination was set in Hawaii. 
 
 1. Data Extraction: Utilized web scraping to gather data from Google Hotels with the extraction based on the user's choice of destination for a 6-night stay for 2 adults from December 22-28, 2024.
 
