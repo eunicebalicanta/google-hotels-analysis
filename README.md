@@ -3,7 +3,7 @@
 
 The main goal of this project was to provide a comprehensive exploratory analysis of the hospitality industry by utilizing web scraping and data visualization. By extracting data from the Google Hotels search, the project focused on several key metrics including total rate, hotel ratings, number of reviews, customer-mentioned amenities and features, nearby attractions, and attractions distances to optimize total stay rates.
 
-1. Data Extraction: Utilized web scraping to gather data from Google Hotels with the extraction based on the user's choice of destination for a 6-night stay from December 22-28, 2024.
+1. Data Extraction: Utilized web scraping to gather data from Google Hotels with the extraction based on the user's choice of destination for a 6-night stay for 2 adults from December 22-28, 2024.
 
 2. Data Cleaning and Analysis: Conducted exploratory data analysis to uncover patterns and insights within the dataset. This included analyzing the relationships between ratings, total rates, and amenities.
 
