@@ -16,12 +16,13 @@ This project demonstrates the power of data-driven methods in understanding mark
 
 The following Python libraries and APIs were used in this project: 
 
-- 'pandas'
-- 'numpy'
-- 'matplotlib'
-- 'scikit-learn'
-- 'seaborn'
-- 'beautifulsoup4'
-- 'regex'
-- 'googlemaps'
-- 'geopy'
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- seaborn
+- beautifulsoup4
+- regex
+- googlemaps
+- geopy
+
